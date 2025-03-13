@@ -6,5 +6,6 @@
         Console.WriteLine("Very good program:");
         Console.WriteLine("==================");
         Console.WriteLine("c1");
+        Console.WriteLine("c2");
     }
 }
